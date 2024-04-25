@@ -8,3 +8,7 @@ Polars-ja は、日本の開発者やデータ分析者が集い、Polars の活
 
 ## Polars-ja Discordサーバーの利用にあたって
 Polars-ja Discord サーバーは、Polars に興味を持つ人々の交流の場として運営しています。多くの人々が楽しく助け合えるように、協力をお願います。
+
+## Polars 公式のリンク
+- [GitHub Organization](https://github.com/pola-rs)
+- [Web Site](https://pola.rs/)
